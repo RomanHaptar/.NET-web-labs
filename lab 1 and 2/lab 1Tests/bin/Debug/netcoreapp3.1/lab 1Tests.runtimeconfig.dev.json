@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gapta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gapta\\.nuget\\packages"
+    ]
+  }
+}

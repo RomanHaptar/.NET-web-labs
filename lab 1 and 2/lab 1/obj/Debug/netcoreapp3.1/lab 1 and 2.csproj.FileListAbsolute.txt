@@ -1,0 +1,10 @@
+C:\Users\gapta\OneDrive\Рабочий стол\веб .NET\lab 1 and 2\bin\Debug\netcoreapp3.1\lab 1 and 2.deps.json
+C:\Users\gapta\OneDrive\Рабочий стол\веб .NET\lab 1 and 2\bin\Debug\netcoreapp3.1\lab 1 and 2.dll
+C:\Users\gapta\OneDrive\Рабочий стол\веб .NET\lab 1 and 2\bin\Debug\netcoreapp3.1\lab 1 and 2.pdb
+C:\Users\gapta\OneDrive\Рабочий стол\веб .NET\lab 1 and 2\obj\Debug\netcoreapp3.1\lab 1 and 2.csproj.AssemblyReference.cache
+C:\Users\gapta\OneDrive\Рабочий стол\веб .NET\lab 1 and 2\obj\Debug\netcoreapp3.1\lab 1 and 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gapta\OneDrive\Рабочий стол\веб .NET\lab 1 and 2\obj\Debug\netcoreapp3.1\lab 1 and 2.AssemblyInfoInputs.cache
+C:\Users\gapta\OneDrive\Рабочий стол\веб .NET\lab 1 and 2\obj\Debug\netcoreapp3.1\lab 1 and 2.AssemblyInfo.cs
+C:\Users\gapta\OneDrive\Рабочий стол\веб .NET\lab 1 and 2\obj\Debug\netcoreapp3.1\lab 1 and 2.csproj.CoreCompileInputs.cache
+C:\Users\gapta\OneDrive\Рабочий стол\веб .NET\lab 1 and 2\obj\Debug\netcoreapp3.1\lab 1 and 2.dll
+C:\Users\gapta\OneDrive\Рабочий стол\веб .NET\lab 1 and 2\obj\Debug\netcoreapp3.1\lab 1 and 2.pdb
